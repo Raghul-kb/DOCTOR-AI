@@ -22,7 +22,7 @@ client       = Groq(api_key=GROQ_API_KEY)
 #  PAGE CONFIG
 # ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="MedAI – Health Assistant",
+    page_title="MedAI",
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded",
